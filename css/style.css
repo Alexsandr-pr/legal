@@ -183,6 +183,7 @@ button {
 }
 .main-block__image img {
     max-width: 100%;
+    height: auto;
 }
 @media(max-width: 991.98px) {
     .main-block__title {
@@ -235,6 +236,7 @@ button {
 }
 .brands__item img {
     max-width: 100%;
+    height: auto;
 }
 @media(max-width:991.98px) {
     .brands__body {
@@ -360,6 +362,7 @@ button {
 }
 .reviews__image img {
     max-width: 100%;
+    height: auto;
 }
 @media(max-width:991.98px) {
     .line-content__item {
@@ -401,6 +404,7 @@ button {
 }
 .twit__image  img {
     max-width: 100%;
+    height: auto;
 }
 @media(max-width:767.98px) {
     .twit__body {
